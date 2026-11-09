@@ -26,7 +26,7 @@ const SCIENTIFIC_DATA = {
       samples: 727,
       level: "10 hPa (approx 30 km altitude / mid-stratosphere)",
       polarCap: "60°N – 90°N; 180°W – 180°E",
-      variables: ["Temperature (K)", "U-wind (m/s)", "V-wind (m/s)", "Geopotential (m²/s²)"]
+      variables: ["Temperature (K)", "U-wind (m/s)", "V-wind (m/s)", "Geopotential (m&sup2;/s&sup2;)"]
     },
     hardware: {
       cpu: "Intel® Core™ i9-14900K (24 cores / 32 threads)",

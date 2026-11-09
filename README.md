@@ -36,7 +36,7 @@ The merged STRATOWATCH platform connects real-time atmospheric science to practi
 - **Target Leakage Discovery & Experimental Fix:** Eliminated $U$-wind features to prevent target leakage, forcing models to predict vortex collapse purely from Geopotential Height, Polar Cap Temperature, and Meridional ($V$) Wind dynamics.
 - **Model Evaluation:** 14-Day Sequence LSTM achieves **0.909 ROC-AUC** and **66.7% Recall** on the imbalanced test set.
 - **Synoptic ERA5 Projections:** 28 polar contour projections covering 2021–2026 across Temperature, U-Wind, V-Wind, and Geopotential Height.
-- **3–4 Day Pre-Onset Precursor Heatmap Matrix & Lead Trajectory:** Multi-day lead tracking with real ERA5 baseline data.
+- **3-4 Day Pre-Onset Precursor Heatmap Matrix & Lead Trajectory:** Multi-day lead tracking with real ERA5 baseline data.
 - **Downward Coupling & Regional Surface Weather Impacts:** Teleconnections to North America (polar vortex displacement), Europe (Storm Filomena), and Northern India.
 - **Live Atmospheric Sandbox:** Interactive sliders to test input variables against calibrated model thresholds.
 

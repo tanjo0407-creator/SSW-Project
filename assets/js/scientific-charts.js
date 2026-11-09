@@ -775,7 +775,7 @@ function initPredictionSandbox() {
 
 
 
-    document.getElementById("sbGeoVal").innerText = `${geo > 0 ? "+" : ""}${geo} m²/s²`;
+    document.getElementById("sbGeoVal").innerText = `${geo > 0 ? "+" : ""}${geo} m&sup2;/s&sup2;`;
 
     document.getElementById("sbTempVal").innerText = `${temp > 0 ? "+" : ""}${temp}°C`;
 
